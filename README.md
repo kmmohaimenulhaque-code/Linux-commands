@@ -1,6 +1,6 @@
 # Linux-commands
 Linux Terminal Commands for personal use 
-Yess 😭 welcome to the “Linux commands that make you feel powerful” phase.
+Yess welcome to the “Linux commands that make you feel powerful” phase.
 
 Here are actually useful beginner-safe Ubuntu commands you’ll probably use a LOT.
 
