@@ -8,7 +8,7 @@ Here are actually useful beginner-safe Ubuntu commands you’ll probably use a L
 
 Show disk space
 
-df -h
+  df -h
 
 Human-readable storage info.
 
@@ -16,19 +16,19 @@ Human-readable storage info.
 
 Show RAM usage
 
-free -h
+  free -h
 
 ⸻
 
 Show system info
 
-neofetch
+  neofetch
 
 Looks cool too 
 
 Install first:
 
-sudo apt install neofetch
+  sudo apt install neofetch
 
 ⸻
 
@@ -36,19 +36,19 @@ sudo apt install neofetch
 
 Update package lists
 
-sudo apt update
+  sudo apt update
 
 ⸻
 
 Upgrade installed packages
 
-sudo apt upgrade
+  sudo apt upgrade
 
 ⸻
 
 Install apps
 
-sudo apt install vlc
+  sudo apt install vlc
 
 Example installs VLC.
 
@@ -56,7 +56,7 @@ Example installs VLC.
 
 Remove apps
 
-sudo apt remove vlc
+  sudo apt remove vlc
 
 ⸻
 
@@ -64,13 +64,13 @@ sudo apt remove vlc
 
 Clean package cache
 
-sudo apt clean
+  sudo apt clean
 
 ⸻
 
 Remove unnecessary packages
 
-sudo apt autoremove
+  sudo apt autoremove
 
 VERY useful.
 
@@ -80,17 +80,17 @@ VERY useful.
 
 Show current folder
 
-pwd
+  pwd
 
 ⸻
 
 List files
 
-ls
+  ls
 
 Better version:
 
-ls -lah
+  ls -lah
 
 Shows hidden files + sizes.
 
@@ -98,19 +98,19 @@ Shows hidden files + sizes.
 
 Enter folder
 
-cd Downloads
+  cd Downloads
 
 ⸻
 
 Go back one folder
 
-cd ..
+  cd ..
 
 ⸻
 
 Go home instantly
 
-cd ~
+  cd ~
 
 ⸻
 
@@ -118,17 +118,17 @@ cd ~
 
 Clear terminal screen
 
-clear
+  clear
 
 Or press:
 
-Ctrl + L
+  Ctrl + L
 
 ⸻
 
 Open current folder in Files app
 
-nautilus .
+  nautilus .
 
 That dot matters 
 
@@ -136,13 +136,13 @@ That dot matters
 
 Shutdown PC
 
-sudo shutdown now
+  sudo shutdown now
 
 ⸻
 
 Restart PC
 
-sudo reboot
+  sudo reboot
 
 ⸻
 
@@ -150,13 +150,13 @@ sudo reboot
 
 Show command history
 
-history
+  history
 
 ⸻
 
 Repeat previous command
 
-!!
+  !!
 
 Dangerous but cool 
 
@@ -166,7 +166,7 @@ Search previous commands
 
 Press:
 
-Ctrl + R
+  Ctrl + R
 
 Then type part of old command.
 
@@ -178,19 +178,19 @@ INSANELY useful later.
 
 Git version
 
-git --version
+  git --version
 
 ⸻
 
 Python version
 
-python3 --version
+  python3 --version
 
 ⸻
 
 C compiler version
 
-gcc --version
+  gcc --version
 
 ⸻
 
@@ -200,11 +200,11 @@ If a command scares you:
 
 add:
 
---help
+  --help
 
 Example:
 
-ls --help
+  ls --help
 
 Linux literally explains itself.
 
@@ -214,13 +214,13 @@ Most useful keyboard shortcuts
 
 Open terminal
 
-Ctrl + Alt + T
+  Ctrl + Alt + T
 
 ⸻
 
 Interrupt running command
 
-Ctrl + C
+  Ctrl + C
 
 LIFESAVER.
 
@@ -230,6 +230,6 @@ Auto-complete filenames
 
 Press:
 
-Tab
+  Tab
 
 This is Linux magic.
